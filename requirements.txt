@@ -1,4 +1,4 @@
-python==3.7.12
+python==3.7.14
 spacy==2.1.4
 nltk
 pyresparser
