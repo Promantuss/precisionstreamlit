@@ -1,7 +1,6 @@
 spacy==2.1.4
 nltk
 pyresparser
-
 pandas
 streamlit==1.9.2
 pymongo
