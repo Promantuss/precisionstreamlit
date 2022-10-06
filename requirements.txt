@@ -4,3 +4,4 @@ pyresparser
 pandas
 streamlit==1.9.2
 pymongo
+python==3.7.9
