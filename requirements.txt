@@ -1,0 +1,7 @@
+spacy==2.1.4
+nltk
+pyresparser
+python -m spacy download en_core_web_sm
+pandas
+streamlit==1.9.2
+pymongo
